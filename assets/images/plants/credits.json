@@ -1,0 +1,322 @@
+{
+  "sunflower": {
+    "title": "File:Sonnenblume Helianthus 1.JPG",
+    "file": "Sonnenblume Helianthus 1.JPG",
+    "author": "böhringer friedrich",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Sonnenblume_Helianthus_1.JPG"
+  },
+  "mango": {
+    "title": "Mangifera indica",
+    "file": "Mangoes_(Magnifera_indica)_from_India.jpg",
+    "author": "Billjones94",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mangoes_(Magnifera_indica)_from_India.jpg"
+  },
+  "coconut": {
+    "title": "File:Coconut Tree.JPG",
+    "file": "Coconut Tree.JPG",
+    "author": "Anoopan at Malayalam Wikipedia",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coconut_Tree.JPG"
+  },
+  "papaya": {
+    "title": "File:Carica papaya 14 7 2012.jpg",
+    "file": "Carica papaya 14 7 2012.jpg",
+    "author": "Joydeep",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carica_papaya_14_7_2012.jpg"
+  },
+  "hibiscus": {
+    "title": "Hibiscus rosa-sinensis",
+    "file": "Hibiscus_Brilliant.jpg",
+    "author": "Andy / Andrew Fogg from near Cambridge, UK",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hibiscus_Brilliant.jpg"
+  },
+  "aloe_vera": {
+    "title": "Aloe vera",
+    "file": "Aloe_vera_flower_inset.png",
+    "author": "Collage by en:User:MidgleyDJ, original images from Wikimedia commons (Image:Aloe_vera_offsets.jpg and Image:Aloe_vera_C.jpg)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aloe_vera_flower_inset.png"
+  },
+  "mimosa": {
+    "title": "Mimosa pudica",
+    "file": "Mimosa_pudica_in_September_month.jpg",
+    "author": "Suyash.dwivedi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mimosa_pudica_in_September_month.jpg"
+  },
+  "monstera": {
+    "title": "Monstera deliciosa",
+    "file": "Monstera_deliciosa2.jpg",
+    "author": "Unknown",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Monstera_deliciosa2.jpg"
+  },
+  "guava": {
+    "title": "Psidium guajava",
+    "file": "Psidium_guajava_fruit.jpg",
+    "author": "Unknown",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Psidium_guajava_fruit.jpg"
+  },
+  "frangipani": {
+    "title": "Plumeria rubra",
+    "file": "Champa_tree_with_pink_flowers_in_Islamabad,_Pakistan.jpg",
+    "author": "Gul Kiyani",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Champa_tree_with_pink_flowers_in_Islamabad,_Pakistan.jpg"
+  },
+  "lantana": {
+    "title": "Lantana camara",
+    "file": "LantanaFlowerLeaves.jpg",
+    "author": "Alvesgaspar",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:LantanaFlowerLeaves.jpg"
+  },
+  "periwinkle": {
+    "title": "Catharanthus roseus",
+    "file": "Vinca_(Catharanthus_roseus)_cultivada_em_Bagé,_RS,_Brasil_-_55231652268.jpg",
+    "author": "O Tupinólogo",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vinca_(Catharanthus_roseus)_cultivada_em_Bag%C3%A9,_RS,_Brasil_-_55231652268.jpg"
+  },
+  "canna": {
+    "title": "Canna indica",
+    "file": "Cinnamon-bellied_flowerpiercer_(Diglossa_baritula)_male_on_Indian_shot_(Canna_indica)_Finca_El_Pilar.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cinnamon-bellied_flowerpiercer_(Diglossa_baritula)_male_on_Indian_shot_(Canna_indica)_Finca_El_Pilar.jpg"
+  },
+  "chili": {
+    "title": "File:Starr-110411-4986-Capsicum annuum-fruit-Hawea Pl Olinda-Maui (24451902974).jpg",
+    "file": "Starr-110411-4986-Capsicum annuum-fruit-Hawea Pl Olinda-Maui (24451902974).jpg",
+    "author": "Forest and Kim Starr",
+    "license": "CC BY 3.0 us",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Starr-110411-4986-Capsicum_annuum-fruit-Hawea_Pl_Olinda-Maui_(24451902974).jpg"
+  },
+  "tomato": {
+    "title": "Tomato",
+    "file": "Tomato_je.jpg",
+    "author": "Softeis",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Tomato_je.jpg"
+  },
+  "mangrove": {
+    "title": "File:Rhizophora mangle (prop roots).jpg",
+    "file": "Rhizophora mangle (prop roots).jpg",
+    "author": "Hans Hillewaert",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rhizophora_mangle_(prop_roots).jpg"
+  },
+  "poinsettia": {
+    "title": "Poinsettia",
+    "file": "Weihnachtsstern_-_groß.jpg",
+    "author": "André Karwath aka Aka",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Weihnachtsstern_-_gro%C3%9F.jpg"
+  },
+  "purslane": {
+    "title": "Portulaca oleracea",
+    "file": "Common_Purslane,_United_States_imported_from_iNaturalist_photo_541953905.jpg",
+    "author": "(c) Tyler Ekholm, some rights reserved (CC BY)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Common_Purslane,_United_States_imported_from_iNaturalist_photo_541953905.jpg"
+  },
+  "bird_of_paradise": {
+    "title": "Strelitzia reginae",
+    "file": "Ave-do-paraíso,_Strelitzia_reginae,_em_Bagé,_Rio_Grande_do_Sul,_Brasil_-_55211233712.jpg",
+    "author": "Gabriel Collares",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ave-do-para%C3%ADso,_Strelitzia_reginae,_em_Bag%C3%A9,_Rio_Grande_do_Sul,_Brasil_-_55211233712.jpg"
+  },
+  "cosmos": {
+    "title": "Cosmos bipinnatus",
+    "file": "Cosmos_bipinnatus_pink,_Burdwan,_West_Bengal,_India_10_01_2013.jpg",
+    "author": "Joydeep",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cosmos_bipinnatus_pink,_Burdwan,_West_Bengal,_India_10_01_2013.jpg"
+  },
+  "dandelion": {
+    "title": "File:Taraxacum officinale-flower-yercaud-salem-India.JPG",
+    "file": "Taraxacum officinale-flower-yercaud-salem-India.JPG",
+    "author": "Yercaud-elango",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taraxacum_officinale-flower-yercaud-salem-India.JPG"
+  },
+  "wild_carrot": {
+    "title": "Daucus carota",
+    "file": "Daucus_carota_Aberystwyth_2024_Far.jpg",
+    "author": "Kieran Roy Powell",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Daucus_carota_Aberystwyth_2024_Far.jpg"
+  },
+  "water_lily": {
+    "title": "Nymphaea alba",
+    "file": "2016_Kwiat_grzybieni_białych_2.jpg",
+    "author": "Jacek Halicki",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2016_Kwiat_grzybieni_bia%C5%82ych_2.jpg"
+  },
+  "water_hyacinth": {
+    "title": "Pontederia crassipes",
+    "file": "Eichhornia_crassipes_C.jpg",
+    "author": "Wouter Hagens",
+    "license": "Public domain",
+    "license_url": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Eichhornia_crassipes_C.jpg"
+  },
+  "taro": {
+    "title": "Taro",
+    "file": "Songe-Réunion.JPG",
+    "author": "No machine-readable author provided. Thierry Caro assumed (based on copyright claims).",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Songe-R%C3%A9union.JPG"
+  },
+  "flame_tree": {
+    "title": "Delonix regia",
+    "file": "Royal_Poinciana.jpg",
+    "author": "Averette",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Royal_Poinciana.jpg"
+  },
+  "leadtree": {
+    "title": "Leucaena leucocephala",
+    "file": "Leucena_(Leucaena_leucocephala)_em_Bagé,_RS,_Brasil_-_55223237062.jpg",
+    "author": "O Tupinólogo",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Leucena_(Leucaena_leucocephala)_em_Bag%C3%A9,_RS,_Brasil_-_55223237062.jpg"
+  },
+  "castor_bean": {
+    "title": "Castor bean",
+    "file": "Ricinus_March_2010-1.jpg",
+    "author": "Alvesgaspar",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ricinus_March_2010-1.jpg"
+  },
+  "prickly_pear": {
+    "title": "Opuntia ficus-indica",
+    "file": "Dikenli_İncir_(Opuntia_ficus-indica)_Gaziantep_Turkey.IMG_1104.jpg",
+    "author": "YG01",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dikenli_%C4%B0ncir_(Opuntia_ficus-indica)_Gaziantep_Turkey.IMG_1104.jpg"
+  },
+  "water_lettuce": {
+    "title": "Pistia",
+    "file": "Pistia_stratiotes0.jpg",
+    "author": "Kurt Stüber [1]",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Pistia_stratiotes0.jpg"
+  },
+  "crape_myrtle": {
+    "title": "Lagerstroemia indica",
+    "file": "Extremosa_(Lagerstroemia_indica)_em_um_fim_de_tarde_em_Bagé-RS_-_55013179934.jpg",
+    "author": "Gabriel Collares",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Extremosa_(Lagerstroemia_indica)_em_um_fim_de_tarde_em_Bag%C3%A9-RS_-_55013179934.jpg"
+  },
+  "spanish_needles": {
+    "title": "Bidens pilosa",
+    "file": "Bidens_pilosa-Silent_Valley-2016-08-13-001.jpg",
+    "author": "Jeevan Jose, Kerala, India",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bidens_pilosa-Silent_Valley-2016-08-13-001.jpg"
+  },
+  "woodsorrel": {
+    "title": "Oxalis corniculata",
+    "file": "Oxalis_corniculata23.jpg",
+    "author": "Norio Nomura",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oxalis_corniculata23.jpg"
+  },
+  "beach_morning_glory": {
+    "title": "Ipomoea pes-caprae",
+    "file": "അടമ്പ്_Ipomoea_pes-caprae_02.jpg",
+    "author": "Drajay1976",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E0%B4%85%E0%B4%9F%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B5%8D_Ipomoea_pes-caprae_02.jpg"
+  },
+  "strawberry": {
+    "title": "File:Fragaria vesca (2484390688).jpg",
+    "file": "Fragaria vesca (2484390688).jpg",
+    "author": "Joan Simon from Barcelona, España",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fragaria_vesca_(2484390688).jpg"
+  },
+  "apple": {
+    "title": "File:Red Apple.jpg",
+    "file": "Red Apple.jpg",
+    "author": "Abhijit Tembhekar from Mumbai, India",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Red_Apple.jpg"
+  },
+  "nettle": {
+    "title": "Urtica dioica",
+    "file": "Fen_nettle_(Urtica_dioica_ssp._galeopsifolia)_-_geograph.org.uk_-_5423125.jpg",
+    "author": "Evelyn Simak",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fen_nettle_(Urtica_dioica_ssp._galeopsifolia)_-_geograph.org.uk_-_5423125.jpg"
+  },
+  "yellow_bells": {
+    "title": "Tecoma stans",
+    "file": "Ipê-de-jardim_(do_tupi_'ypé),_Tecoma_stans,_em_Bagé-RS,_Brasil.jpg",
+    "author": "Gabriel Collares",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ip%C3%AA-de-jardim_(do_tupi_%27yp%C3%A9),_Tecoma_stans,_em_Bag%C3%A9-RS,_Brasil.jpg"
+  },
+  "african_tulip": {
+    "title": "Spathodea campanulata",
+    "file": "Starr_031210-0047_Spathodea_campanulata.jpg",
+    "author": "Forest & Kim Starr",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Starr_031210-0047_Spathodea_campanulata.jpg"
+  },
+  "oleander": {
+    "title": "Nerium",
+    "file": "Nerium_oleander_flowers_leaves.jpg",
+    "author": "Alvesgaspar",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Nerium_oleander_flowers_leaves.jpg"
+  }
+}

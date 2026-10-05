@@ -36,6 +36,10 @@ flutter:
   uses-material-design: true
 
   assets:
+    - assets/models/
+    - assets/images/plants/
+    - assets/images/story/
+    - assets/videos/
     - assets/vision-plant.tflite
     - assets/aiy_plants_V1_labelmap.csv
     - assets/WhatsApp Image 2025-09-11 at 00.38.53_838607c2.jpg
@@ -43,3 +47,25 @@ flutter:
     - assets/1.jpg
     - assets/3.jpg
     - assets/2.jpg
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Inter-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Inter-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Inter-Bold.ttf
+          weight: 700
