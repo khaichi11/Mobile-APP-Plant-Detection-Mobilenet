@@ -72,10 +72,6 @@ flutter:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
   assets:
-    - assets/siscer_cnn_deteksi_buah.tflite
-    - assets/class.txt
-    - assets/logo-buah-seru.png
-    - assets/aiy_plants_v1_labels.txt
     - assets/vision-plant.tflite
     - assets/aiy_plants_V1_labelmap.csv
     - assets/WhatsApp Image 2025-09-11 at 00.38.53_838607c2.jpg
