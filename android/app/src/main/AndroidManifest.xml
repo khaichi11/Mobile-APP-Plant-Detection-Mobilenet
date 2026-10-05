@@ -1,4 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Scanning plants. The camera is optional: photos can be picked instead. -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" android:required="false" />
+    <!-- Wikipedia summaries for plants outside the built-in guide. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:label="Pandai"
         android:name="${applicationName}"

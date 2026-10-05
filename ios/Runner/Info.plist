@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Pandai uses the camera to identify the plants you find.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Pandai does not record audio. The camera plugin requires this description.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Pandai lets you pick plant photos and a profile picture from your library.</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
