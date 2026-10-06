@@ -40,13 +40,6 @@ flutter:
     - assets/images/plants/
     - assets/images/story/
     - assets/videos/
-    - assets/vision-plant.tflite
-    - assets/aiy_plants_V1_labelmap.csv
-    - assets/WhatsApp Image 2025-09-11 at 00.38.53_838607c2.jpg
-    - assets/dummy_vid2.mp4
-    - assets/1.jpg
-    - assets/3.jpg
-    - assets/2.jpg
 
   fonts:
     - family: Poppins
