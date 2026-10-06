@@ -9,8 +9,9 @@ on:
   workflow_dispatch:
     inputs:
       dataset_url:
-        description: URL of a zip with train/ and val/ folders (one folder per species)
-        required: true
+        description: URL of a zip with train/ and val/ folders (one folder per species). Leave empty to only run the tests.
+        required: false
+        default: ''
       epochs:
         description: Training epochs
         default: '15'
@@ -18,7 +19,7 @@ on:
 jobs:
   test:
     name: Test the training code
-    if: github.event_name != 'workflow_dispatch'
+    if: github.event_name != 'workflow_dispatch' || inputs.dataset_url == ''
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -35,7 +36,7 @@ jobs:
 
   train:
     name: Train and export
-    if: github.event_name == 'workflow_dispatch'
+    if: github.event_name == 'workflow_dispatch' && inputs.dataset_url != ''
     runs-on: ubuntu-latest
     timeout-minutes: 340
     defaults:
