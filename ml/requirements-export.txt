@@ -1,0 +1,2 @@
+# Converts the PyTorch model to TensorFlow Lite.
+ai-edge-torch>=0.2
