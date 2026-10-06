@@ -44,21 +44,31 @@ Berkualitas) dan SDG 15 (Ekosistem Daratan).
 
 ### Tangkapan layar
 
-| Masuk | Beranda | Game dan misi | Peringkat |
-| --- | --- | --- | --- |
-| ![Masuk](docs/screenshots/01_welcome.png) | ![Beranda](docs/screenshots/02_home.png) | ![Game dan misi](docs/screenshots/03_home_games.png) | ![Peringkat](docs/screenshots/04_home_leaderboard.png) |
-
-| Mengenal Tanaman | Hasil pindai AI | Koleksi | Detail tumbuhan |
-| --- | --- | --- | --- |
-| ![Mengenal Tanaman](docs/screenshots/05_get_to_know_plants.png) | ![Hasil pindai](docs/screenshots/06_scan_result.png) | ![Koleksi](docs/screenshots/07_collection.png) | ![Detail](docs/screenshots/08_plant_detail.png) |
-
-| Peta PETA | Cerita PETA | Puzzle | Memory Match |
-| --- | --- | --- | --- |
-| ![Peta](docs/screenshots/09_adventure_map.png) | ![Cerita](docs/screenshots/10_story.png) | ![Puzzle](docs/screenshots/11_puzzle.png) | ![Memory](docs/screenshots/12_memory.png) |
-
-| Build a Plant | Profil | Pengaturan |
-| --- | --- | --- |
-| ![Build a Plant](docs/screenshots/13_build_a_plant.png) | ![Profil](docs/screenshots/14_profile.png) | ![Pengaturan](docs/screenshots/15_settings.png) |
+<table>
+  <tr>
+    <td align="center" width="25%"><img src="docs/screenshots/01_welcome.png" width="180" alt="Masuk"><br><sub>Masuk</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/02_home.png" width="180" alt="Beranda"><br><sub>Beranda</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/03_home_games.png" width="180" alt="Game dan misi"><br><sub>Game dan misi</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/04_home_leaderboard.png" width="180" alt="Peringkat"><br><sub>Peringkat</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><img src="docs/screenshots/05_get_to_know_plants.png" width="180" alt="Mengenal Tanaman"><br><sub>Mengenal Tanaman</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/06_scan_result.png" width="180" alt="Hasil pindai AI"><br><sub>Hasil pindai AI</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/07_collection.png" width="180" alt="Koleksi"><br><sub>Koleksi</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/08_plant_detail.png" width="180" alt="Detail tumbuhan"><br><sub>Detail tumbuhan</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><img src="docs/screenshots/09_adventure_map.png" width="180" alt="Peta PETA"><br><sub>Peta PETA</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/10_story.png" width="180" alt="Cerita PETA"><br><sub>Cerita PETA</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/11_puzzle.png" width="180" alt="Puzzle"><br><sub>Puzzle</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/12_memory.png" width="180" alt="Memory Match"><br><sub>Memory Match</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><img src="docs/screenshots/13_build_a_plant.png" width="180" alt="Build a Plant"><br><sub>Build a Plant</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/14_profile.png" width="180" alt="Profil"><br><sub>Profil</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/15_settings.png" width="180" alt="Pengaturan"><br><sub>Pengaturan</sub></td>
+  </tr>
+</table>
 
 Semua tangkapan layar dibuat otomatis oleh integration test di emulator
 Android, termasuk hasil pindai yang memakai model AI asli.
@@ -185,9 +195,34 @@ supports SDG 4 (Quality Education) and SDG 15 (Life on Land).
 
 ### Screenshots
 
-See the [screenshot gallery above](#tangkapan-layar). Every screenshot is
-taken automatically by the integration test on an Android emulator, including
-the scan result from the real AI model.
+<table>
+  <tr>
+    <td align="center" width="25%"><img src="docs/screenshots/01_welcome.png" width="180" alt="Sign in"><br><sub>Sign in</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/02_home.png" width="180" alt="Home"><br><sub>Home</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/03_home_games.png" width="180" alt="Games and missions"><br><sub>Games and missions</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/04_home_leaderboard.png" width="180" alt="Leaderboard"><br><sub>Leaderboard</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><img src="docs/screenshots/05_get_to_know_plants.png" width="180" alt="Get to Know Plants"><br><sub>Get to Know Plants</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/06_scan_result.png" width="180" alt="AI scan result"><br><sub>AI scan result</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/07_collection.png" width="180" alt="Collection"><br><sub>Collection</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/08_plant_detail.png" width="180" alt="Plant details"><br><sub>Plant details</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><img src="docs/screenshots/09_adventure_map.png" width="180" alt="PETA map"><br><sub>PETA map</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/10_story.png" width="180" alt="PETA story"><br><sub>PETA story</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/11_puzzle.png" width="180" alt="Puzzle"><br><sub>Puzzle</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/12_memory.png" width="180" alt="Memory Match"><br><sub>Memory Match</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><img src="docs/screenshots/13_build_a_plant.png" width="180" alt="Build a Plant"><br><sub>Build a Plant</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/14_profile.png" width="180" alt="Profile"><br><sub>Profile</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/15_settings.png" width="180" alt="Settings"><br><sub>Settings</sub></td>
+  </tr>
+</table>
+
+Every screenshot is taken automatically by the integration test on an Android
+emulator, including the scan result from the real AI model.
 
 ### Features
 
