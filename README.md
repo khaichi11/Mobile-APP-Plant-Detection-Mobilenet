@@ -20,6 +20,10 @@
 </p>
 
 <p align="center">
+  <img src="docs/demo.gif" width="300" alt="Demo Pandai: logo muncul lalu memudar, beranda, hasil pindai bunga matahari disimpan ke herbarium, dan koleksi">
+</p>
+
+<p align="center">
   <img src="docs/screenshots/framed/02_home.png" width="190" alt="Home">
   <img src="docs/screenshots/framed/06_scan_result.png" width="190" alt="Scan result">
   <img src="docs/screenshots/framed/09_adventure_map.png" width="190" alt="PETA adventure map">
@@ -40,6 +44,9 @@ Pandai mengajak siswa mempelajari tumbuhan secara aktif di luar kelas melalui ga
 sekitar mereka, kecerdasan buatan di ponsel mengenalinya, dan hasilnya dikumpulkan dalam herbarium pribadi sambil
 siswa menjalani petualangan, puzzle, dan kuis. Pandai mendukung SDG 4 tentang pendidikan berkualitas dan SDG 15 tentang
 ekosistem daratan.
+
+Saat dibuka, logo Pandai muncul perlahan di tengah layar, diam sejenak, lalu memudar dan aplikasi langsung tampil.
+Pembukanya sengaja dibuat tenang agar anak dapat segera mulai bermain; ketuk layar untuk melewatinya.
 
 ### Tangkapan layar
 
@@ -142,6 +149,14 @@ integrasi tersebut menjalankan model asli pada 40 foto panduan dan menghasilkan 
 `docs/screenshots/`. Pada pengujian terakhir, tebakan pertama model benar untuk 27 dari 40 foto, dan jawaban yang benar
 masuk lima besar untuk 38 dari 40 foto.
 
+GIF demo di bagian atas dirender di laptop tanpa emulator: `test/demo_render_test.dart` menggambar setiap layar dan
+menyimpan bingkainya, lalu `tool/render_gif.py` menyusunnya ke dalam bingkai ponsel lengkap dengan bilah status.
+
+```bash
+DEMO_FRAMES=build/frames flutter test test/demo_render_test.dart
+python3 tool/render_gif.py build/frames docs/demo.gif
+```
+
 ### Melatih model sendiri
 
 Folder [`ml/`](ml) berisi pipeline PyTorch untuk melatih MobileNetV3 dengan dataset tumbuhan lokal yang disusun dalam
@@ -187,6 +202,9 @@ Pandai encourages students to learn about plants actively outside the classroom 
 the plants around them, on-device AI identifies each one, and the results are gathered in a personal herbarium while
 students work through an adventure, puzzles, and quizzes. Pandai supports SDG 4 on quality education and SDG 15 on
 life on land.
+
+On launch the Pandai logo fades in at the centre of the screen, rests for a moment, and then fades out straight into
+the app. The opening is kept calm so children can start playing right away; tapping the screen skips it.
 
 ### Screenshots
 
@@ -274,6 +292,14 @@ flutter drive --driver=test_driver/integration_test.dart \
 integration test runs the real model on the 40 guide photos and produces every screenshot in `docs/screenshots/`. In
 the latest run, the model's first guess was correct for 27 of the 40 photos, and the right answer was in the top five
 for 38 of them.
+
+The demo GIF at the top is rendered on a laptop without an emulator: `test/demo_render_test.dart` draws every screen
+and saves the frames, and `tool/render_gif.py` then places them in a phone frame with a status bar.
+
+```bash
+DEMO_FRAMES=build/frames flutter test test/demo_render_test.dart
+python3 tool/render_gif.py build/frames docs/demo.gif
+```
 
 ### Training your own model
 

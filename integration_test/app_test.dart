@@ -91,7 +91,9 @@ void main() {
     }
 
     // Welcome screen.
-    await tester.pumpWidget(PandaiApp(state: state, services: services));
+    await tester.pumpWidget(
+      PandaiApp(state: state, services: services, intro: false),
+    );
     await shoot('01_welcome');
 
     // A student with some progress.

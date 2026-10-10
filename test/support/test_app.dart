@@ -68,7 +68,9 @@ class TestHarness {
   /// Pumps the whole app at phone size with animations reduced.
   Future<void> pumpApp(WidgetTester tester) async {
     usePhoneScreen(tester);
-    await tester.pumpWidget(PandaiApp(state: state, services: services));
+    await tester.pumpWidget(
+      PandaiApp(state: state, services: services, intro: false),
+    );
     await tester.pump();
   }
 
